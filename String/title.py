@@ -8,3 +8,4 @@ print("Azhan khan")
 print("Adnan Khan")
 
 print("hello world")
+print("Python class")
