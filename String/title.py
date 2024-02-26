@@ -5,4 +5,4 @@ print(string.title())
 print("Azhan khan")
 
 
-print("Adhiraj")
+print("Adhiraj singh")
